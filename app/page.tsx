@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Full-Stack Developer Portfolio',
-  description: 'Welcome to my full-stack developer portfolio. Explore my projects, skills, and professional journey.',
+  title: 'Home - Data Engineer Portfolio',
+  description: 'Welcome to my Data Engineer portfolio. Explore my projects, skills, and professional journey.',
 }
 
 export default function About() {
