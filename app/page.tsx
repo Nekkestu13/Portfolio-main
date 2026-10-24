@@ -13,7 +13,7 @@ export default function About() {
 
           <section>
             { /* Page title */}
-          <h1 className="h1 font-aspekta mb-8">Welcome on<br />
+          <h1 className="h1 font-aspekta mb-8">Welcome to<br />
             <span className="inline-flex relative text-sky-500 before:absolute before:inset-0 before:bg-sky-200 dark:before:bg-sky-500 before:opacity-30 before:-z-10 before:-rotate-2 before:translate-y-1/4">Ryan Houha&apos;s<br />portfolio
             </span>
           </h1>
